@@ -8,7 +8,8 @@
 * Öncelikle dosyayı indirdikten sonra sql klasörü içerisinde bulunan 'challenge.sql' dosyasını veritabanınıza aktarmanız gerekmektedir.<br>
 * Daha sonrasında 'database.php' içerisinde yer alan veritabanı bilgilerini kendi veritabanınız için düzenleyebilirsiniz <br>
 * Bu işlemler bittikten sonra projemizi çalıştırmaya başlayabiliriz. <br>
-* Projeyi çalıştırdığınızda karşımıza bir form gelecektir. Bu formda kampanya adı, csv uzantılı bir dosya ve tarih bilgisi istenmektedir. Verileri ekledikten sonra sonuc.php sayfasında karşınıza bir tablo çıkacaktır. Burada hangi verilerin eklenip eklenmediğini inceleyebilirsiniz.<br>
+* Projeyi çalıştırdığınızda karşımıza bir form gelecektir. Bu formda; klasörün ierisinde yer alan task.csv dosyasını , kampanya adını ve tarih bilgisini girmeniz gerekmektedir.<br>
+* Verileri ekledikten sonra sonuc.php yönlendirerek karşınıza bir tablo çıkacaktır. Burada hangi verilerin eklenip eklenmediğini inceleyebilirsiniz.<br>
 
 </p>
 
